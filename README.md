@@ -7,10 +7,10 @@
 ## 打开方式
   在linux中下载本项目，之后执行以下四个命令。
   ```bash
-  make -f makefile_server  <br>
-  make -f makefile_client  <br>
-  ./bin/server  <br>
-  ./bin/client  <br>
+  make -f makefile_server
+  make -f makefile_client
+  ./bin/server 
+  ./bin/client 
   ```
   
 ## 示例
